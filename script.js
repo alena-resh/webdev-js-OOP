@@ -19,4 +19,5 @@ let c = {
     __proto__ : b //наследник b
 }
 
+console.log(c);
 console.log(c.bold);
